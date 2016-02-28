@@ -1,0 +1,35 @@
+.square {
+            width: 200px;
+            height: 200px;
+            text-align: center;
+            vertical-align:bottom;
+            font-size: 80px;
+            font-weight: bold;
+            background: url("images/yoimgres.jpg");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            border-radius: 25px;
+
+        }
+
+
+#Message {
+            font-size: 50px;
+            font-weight: 50px;
+            text-align: center;
+}
+
+        h1 {
+            text-align: center;
+            font-size: 100px;
+
+        }
+
+        #table {
+            border-radius: 25px;
+        }
+
+        .href {
+            font-size: 50px;
+          }
